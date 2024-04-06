@@ -14,7 +14,7 @@ log=$1
 
 # Check if the log file exists.
 if [ ! -f "$log" ]; then
-    echo "File not found: $log"
+    echo "Error: file not found: $log"
     exit 1
 fi
 

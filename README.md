@@ -1,4 +1,4 @@
-# Apache Parser
+# Apache HTTP Log Parser
 ------------------------------------------
 
 A small script used for an assignment in my Systems programming class.

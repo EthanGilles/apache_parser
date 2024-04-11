@@ -8,7 +8,7 @@ HTTP server to help with server administration.
 
 <h2>Usage</h2>
 
-This would be user on an Apache log file with the following structure -
+This would be used on an Apache log file with the following structure -
 
 127.0.0.1 - - [24/Mar/2023:13:15:42 -0400] "GET /index.html HTTP/1.1" 200 612 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
 

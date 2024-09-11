@@ -3,8 +3,8 @@
 
 A small script used for an assignment in my Systems programming class.
 The purpose is to take a Linux Apache server's logs and parse it to find the
-occurrences of the connection status in each entry. This could be used on a personal
-HTTP server to help with server administration.
+occurrences of the connection status in each entry. This was used on a personal
+HTTP server of mine to help with server administration.
 
 <h2>Usage</h2>
 
